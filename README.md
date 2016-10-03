@@ -3,7 +3,7 @@
 Node NATS Streaming is an extremely performant, lightweight reliable streaming platform powered by [NATS](http://nats.io) for [Node.js](http://nodejs.org/).
 
 [![License MIT](https://img.shields.io/npm/l/express.svg)](http://opensource.org/licenses/MIT)
-[![Build Status](https://travis-ci.org/nats-io/node-nats-streaming.svg?branch=master)](http://travis-ci.org/nats-io/node-nats-streaming) [![npm version](https://badge.fury.io/js/node-nats-streaming.svg)](http://badge.fury.io/js/nats)[![Coverage Status](https://coveralls.io/repos/github/nats-io/node-nats-streaming/badge.svg?branch=master)](https://coveralls.io/github/nats-io/node-nats-streaming?branch=master)
+[![Build Status](https://travis-ci.org/lekoder/node-nats-streaming.svg?branch=experimental)](http://travis-ci.org/lekoder/node-nats-streaming) [![npm version](https://badge.fury.io/js/node-nats-streaming.svg)](http://badge.fury.io/js/nats)[![Coverage Status](https://coveralls.io/repos/github/lekoder/node-nats-streaming/badge.svg?branch=experimental)](https://coveralls.io/github/lekoder/node-nats-streaming?branch=experimental)
 
 NATS Streaming provides the following high-level feature set:
 - Log based persistence
